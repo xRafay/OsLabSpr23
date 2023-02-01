@@ -1,28 +1,0 @@
-Script started on 2023-01-30 13:51:15-05:00 [TERM="xterm-256color" TTY="/dev/pts/11" COLUMNS="77" LINES="27"]
-                                                                             ]0;rafay@kali: ~[0m[27m[24m[J[32m┌──([1m[32m[34mrafay㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[7m[4m[32msudo[24m[39m[7m [7m[36museradd[39m[7m user1[27m
-[7m[4m[32msudo[24m[39m[7m [7m[36museradd[39m[7m user2[27m[K
-[K[K[A[A[4C[27m[4m[32ms[27m[4m[32mu[27m[4m[32md[27m[4m[32mo[24m[39m[27m [27m[36mu[27m[36ms[27m[36me[27m[36mr[27m[36ma[27m[36md[27m[36md[39m[27m [27mu[27ms[27me[27mr[27m1[1B[27m[4m[32ms[27m[4m[32mu[27m[4m[32md[27m[4m[32mo[24m[39m[27m [27m[36mu[27m[36ms[27m[36me[27m[36mr[27m[36ma[27m[36md[27m[36md[39m[27m [27mu[27ms[27me[27mr[27m2[1B[?1l>[?2004l
-[sudo] password for rafay: 
-                                                                             ]0;rafay@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mrafay㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[7m[4m[32msudo[24m[39m[7m [7m[36mpasswd[39m[7m user1[27m
-[7m[4m[32msudo[24m[39m[7m [7m[36mpasswd[39m[7m user2[27m[K
-[K[K[A[A[4C[27m[4m[32ms[27m[4m[32mu[27m[4m[32md[27m[4m[32mo[24m[39m[27m [27m[36mp[27m[36ma[27m[36ms[27m[36ms[27m[36mw[27m[36md[39m[27m [27mu[27ms[27me[27mr[27m1[1B[27m[4m[32ms[27m[4m[32mu[27m[4m[32md[27m[4m[32mo[24m[39m[27m [27m[36mp[27m[36ma[27m[36ms[27m[36ms[27m[36mw[27m[36md[39m[27m [27mu[27ms[27me[27mr[27m2[1B[?1l>[?2004l
-New password: 
-Retype new password: 
-passwd: password updated successfully
-New password: 
-Retype new password: 
-passwd: password updated successfully
-                                                                             ]0;rafay@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mrafay㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[7m[36msu[39m[7m user1[27m
-[K[K[A[4C[27m[36ms[27m[36mu[39m[27m [27mu[27ms[27me[27mr[27m1[1B[?1l>[?2004l
-Password: 
-$ exit
-                                                                             ]0;rafay@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mrafay㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4m[37me[24m[39m[4m[37me[24m[39m[38;2;153;153;153mxit[39m[24m[36me[36mx[39m[4m[37me[4m[37mx[4m[37mi[24m[39m[24m[36me[24m[36mx[24m[36mi[36mt[39m[?1l>[?2004l
-
-Script done on 2023-01-30 13:52:17-05:00 [COMMAND_EXIT_CODE="0"]
