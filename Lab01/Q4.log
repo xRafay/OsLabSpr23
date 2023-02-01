@@ -1,0 +1,58 @@
+Script started on 2023-02-01 13:02:12-05:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="165" LINES="35"]
+                                                                                                                                                                     ]0;rafay@kali: ~[0m[27m[24m[J[32m┌──([1m[32m[34mrafay㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4m[37ma[24m[39m[4m[37ma[24m[39m[38;2;153;153;153mdduser Rafay[39m[12D[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[4m[37ms[24m[39m[4m[37ms[24m[39m[38;2;153;153;153mudo adduser user1[39m[17D[24m[36ms[36mu[39m[4m[37ms[4m[37mu[4m[37md[24m[39m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[39m [4m[37ma[24m[39m[24m[36ma[36md[36md[36mu[36ms[36me[36mr[39m[39m [39mu[39ms[39me[39mr[39m1[?1l>[?2004l
+[sudo] password for rafay: 
+Adding user `user1' ...
+Adding new group `user1' (1001) ...
+Adding new user `user1' (1001) with group `user1 (1001)' ...
+adduser: The home directory `/home/user1' already exists.  Not copying from `/etc/skel'.
+New password: 
+Retype new password: 
+passwd: password updated successfully
+Changing the user information for user1
+Enter the new value, or press ENTER for the default
+	Full Name []: rafay
+	Room Number []: 1234
+	Work Phone []: 123124
+	Home Phone []: 1231223
+	Other []: 12
+Is the information correct? [Y/n] y
+Adding new user `user1' to supplemental / extra groups `users' ...
+Adding user `user1' to group `users' ...
+                                                                                                                                                                     ]0;rafay@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mrafay㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4m[37ms[24m[39m[4m[37ms[24m[39m[38;2;153;153;153mudo adduser user1[39m[17D[24m[36ms[36mu[39m[4m[37ms[4m[37mu[4m[37md[24m[39m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[39m [4m[37ma[24m[39m[24m[36ma[36md[36md[36mu[36ms[36me[36mr[39m[39m [39mu[39ms[39me[39mr[39m1 [38;2;153;153;153m1[39m[39m3 [38;2;153;153;153m1[39m[39m2[?1l>[?2004l
+adduser: The user `user2' already exists.
+                                                                                                                                                                     ]0;rafay@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mrafay㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4m[37md[24m[39m[4m[37md[24m[39m[38;2;153;153;153meluser user1[39m[12D[4m[37md[4m[37me[24m[39m[4m[37md[4m[37me[4m[37ml[24m[39m[24m[36md[24m[36me[24m[36ml[36mu[36ms[36me[36mr[39m[39m [39mu[39ms[39me[39mr[39m1 [38;2;153;153;153m1[39m [39m [38;2;153;153;153mr1[39m [39m [39m [38;2;153;153;153mer1[39m [39m [39m [39m [38;2;153;153;153mser1[39m [39m [39m [39m [39m [38;2;153;153;153muser1[39m[39m [39m [39m [39m [39m [38;2;153;153;153m user1[39m[4m[37md[4m[37me[4m[37ml[4m[37mu[4m[37ms[4m[37me[24m[39m[39m [39m [39m [39m [39m [39m [39m [38;2;153;153;153mr user1[39m[4m[37ms[24m[39m[24m[39m [39m [39m [39m [39m [39m [39m [39m [8D[38;2;153;153;153mer user1[39m[8D[4m[37mu[24m[39m[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [9D[38;2;153;153;153mser user1[39m[9D[4m[37ml[24m[39m[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[38;2;153;153;153muser user1[39m[10D[4m[37md[4m[37me[24m[39m[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[38;2;153;153;153mluser user1[39m[11D[4m[37md[24m[39m[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[4m[37md[24m[39m[38;2;153;153;153meluser user1[39m[12D[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[4m[37ma[24m[39m[4m[37ma[24m[39m[38;2;153;153;153mdduser Rafay[39m[12D[4m[37ma[4m[37md[24m[39m[4m[37ma[4m[37md[4m[37md[24m[39m[4m[37md[4m[37mu[24m[39m[4m[37mu[4m[37ms[24m[39m[4m[37mu[24m[39m[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [9D[38;2;153;153;153mser Rafay[39m[9D[4m[37md[24m[39m[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[38;2;153;153;153muser Rafay[39m[10D[4m[37ma[4m[37md[24m[39m[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[38;2;153;153;153mduser Rafay[39m[11D[4m[37ma[24m[39m[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[4m[37ma[24m[39m[38;2;153;153;153mdduser Rafay[39m[12D[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[4m[37ms[24m[39m[4m[37ms[24m[39m[38;2;153;153;153mudo adduser user2[39m[17D[24m[36ms[36mu[39m[4m[37ms[4m[37mu[4m[37md[24m[39m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[39m [4m[37ma[24m[39m[4m[37ma[4m[37md[24m[39m[4m[37md[4m[37md[24m[39m[4m[37md[4m[37mu[24m[39m[4m[37mu[4m[37ms[24m[39m[4m[37ms[4m[37me[24m[39m[24m[36ma[24m[36md[24m[36md[24m[36mu[24m[36ms[24m[36me[36mr[39m[39m [39mu[39ms[39me[39mr[39m3[?1l>[?2004l
+Adding user `user3' ...
+Adding new group `user3' (1004) ...
+Adding new user `user3' (1004) with group `user3 (1004)' ...
+Creating home directory `/home/user3' ...
+Copying files from `/etc/skel' ...
+New password: 
+Retype new password: 
+passwd: password updated successfully
+Changing the user information for user3
+Enter the new value, or press ENTER for the default
+	Full Name []: user3
+	Room Number []: 12376
+	Work Phone []: 8754
+	Home Phone []: 4
+	Other []: 4
+Is the information correct? [Y/n] y
+Adding new user `user3' to supplemental / extra groups `users' ...
+Adding user `user3' to group `users' ...
+                                                                                                                                                                     ]0;rafay@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mrafay㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4m[37ms[24m[39m[4m[37ms[24m[39m[38;2;153;153;153mudo adduser user3[39m[17D[24m[36ms[36mu[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[38;2;153;153;153muser1[39m
+[K[A[7C[39mu[1B[K[A[8C[39ms[39me[39mr[39m3[1B[K[A[12C[?1l>[?2004l[1BPassword: 
+[?2004h]0;user3@kali: /home/rafay[;32m┌──([1;34muser3㉿kali[;32m)-[[0;1m/home/rafay[;32m]
+[;32m└─[1;34m$[0m exit
+[?2004lexit
+                                                                                                                                                                     ]0;rafay@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mrafay㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4m[37me[24m[39m[4m[37me[24m[39m[38;2;153;153;153mxit[39m[24m[36me[36mx[39m[4m[37me[4m[37mx[4m[37mi[24m[39m[24m[36me[24m[36mx[24m[36mi[36mt[39m[4m[37me[4m[37mx[4m[37mi[4m[37mt[4m[37my[24m[39m[24m[36me[24m[36mx[24m[36mi[24m[36mt[39m[24m[39m [?1l>[?2004l
+
+Script done on 2023-02-01 13:03:45-05:00 [COMMAND_EXIT_CODE="0"]
