@@ -34,6 +34,13 @@
 
 Implementing strong password:
 
+Add password requisite pam_pwquality.so minlen=8 ucredit=-1 lcredit=-1 dcredit=-1 ocredit=-1 in  /etc/pam.d/common-password:
+
+![cap](https://user-images.githubusercontent.com/123715905/234671263-2197b9c6-f7f3-4d75-b8ec-3b22a6afef6e.png)
+![Capture](https://user-images.githubusercontent.com/123715905/234671747-40eb9ea3-a2a7-4e51-82ff-3d743a64a9f0.png)
+
+
+
 
 
 
